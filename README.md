@@ -5,7 +5,7 @@
 ## About Me
 
 - Jr. Back-End Developer and wants to be full stack developer, always eager to adapt and take on new challenges!
-- 🌱 I'm currently learning: **Django, JavaScript, React, MongoDB**
+- 🌱 I'm currently learning: **Django, JavaScript, React**
 - 📫 Reach me: [crlidoruk@gmail.com](mailto:crlidoruk@gmail.com)
 
 <!-- Social icons -->
