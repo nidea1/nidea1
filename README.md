@@ -4,7 +4,7 @@
 
 <p align="center">🌱 I’m currently learning <strong>Django, React</strong></p>
 
-<p align="center">📫 How to reach me <strong>crlidoruk@gmail.com</strong></p>
+<p align="center">📫 How to reach me: <strong><a href="crlidoruk@gmail.com">crlidoruk@gmail.com</a></strong></p>
 <hr>
 <h3 align="center">Connect with me</h3>
 
