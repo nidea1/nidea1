@@ -15,6 +15,8 @@
 - 📝 Description: An online auction application where users can add their products to the system for auction and bid on other products.
 - 🛠️ Technologies Used: Django, Django Rest Framework (RESTful API), JWT, Django-Channels(WebSockets), Celery, React, Redux, Bootstrap, CORS, Redis, OAuth2
 - 🌐 Live demo/website: [eAuction DEMO](https://nidea1.com.tr)
+- :open_book: Project code & details: [eAuction REPO](https://github.com/nidea1/e-Auction)
+- :key: Test account: ```testaccount@eauction.com:123```
 
 <!-- Social icons -->
 ### Social
