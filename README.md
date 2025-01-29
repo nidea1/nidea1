@@ -73,7 +73,7 @@
 
 ---
 <p align="center">
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nidea1&theme=tokyonight&hide_border=true" alt="streak-stats" />
+  <a href="https://git.io/streak-stats"><img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=nidea1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nidea1&show_icons=true&theme=tokyonight&hide_border=true" alt="github-stats" />
 </p>
 
