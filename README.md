@@ -1,56 +1,83 @@
+<!-- markdownlint-disable html -->
 <!-- Head -->
 # Hey, I'm Doruk ÇORALI 👋
 
-<!-- SubHead -->
-## About Me
+## 💻 About Me
 
-- Jr. Back-End Developer and wants to be full stack developer, always eager to adapt and take on new challenges!
-- 🌱 I'm currently learning: **SQL, C#**
+- 🚀 **Full-Stack Developer** experienced in developing scalable web and IoT applications.
+- 🔥 Specialized in **React (JavaScript/TypeScript)** for frontend, and **Django & AWS** for backend.
+- ⚡️ Building **real-time IoT dashboards** using MQTT, WebSockets, and REST APIs.
+- 🛠️ Currently learning **Go**, **gRPC**, **Docker**, and **Kubernetes** to enhance backend scalability.
 - 📫 Reach me: [crlidoruk@gmail.com](mailto:crlidoruk@gmail.com)
+
+### 🎧 What I'm Listening To
+
+---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11128288237&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=11128288237&redirect=true)
 
 <!-- Work in Progress -->
 ### 🚧 Work in Progress
 
-#### eAuction
-- 📝 Description: An online auction application where users can add their products to the system for auction and bid on other products.
-- 🛠️ Technologies Used: Django, Django Rest Framework (RESTful API), JWT, Django-Channels(WebSockets), Celery, React, Redux, Bootstrap, CORS, Redis, OAuth2
-- 🌐 Live demo/website: [eAuction DEMO](https://nidea1.com.tr)
-- :open_book: Project code & details: [eAuction REPO](https://github.com/nidea1/e-Auction)
-- :key: Test account: ```testaccount@eauction.com:123```
+---
+
+#### goGavel _(Active Development)_
+
+- 📝 **Description**: A modern online auction application built with a microservices architecture.
+- 🛠️ **Technologies Used**: Go, gRPC, Docker, Kubernetes, PostgreSQL, Redis, gRPC-Gateway
+- 🚀 **Key Features**: Real-time bidding, microservices-based backend, secure authentication
+- 📖 **Project code & details**: [goGavel REPO](https://github.com/nidea1/goGavel)
+
+#### eAuction _(Archived Project)_
+
+- 📝 **Description**: A past project developed using Python technologies, where users could list products for auction and bid in real-time.
+- 🛠️ **Technologies Used**: Django, Django Rest Framework (RESTful API), JWT, Django-Channels (WebSockets), Celery, Redis, React, Redux, Bootstrap, OAuth2
+- 📖 **Project code & details**: [eAuction REPO](https://github.com/nidea1/e-Auction)
 
 <!-- Social icons -->
-### Social
+### 🌍 Social
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kullaniciadi/)](https://www.linkedin.com/in/dorukcrli/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/kullaniciadi)](https://www.hackerrank.com/crlidoruk)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/kullaniciadi)](https://stackoverflow.com/users/20529650)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.gg/kullaniciadi)](https://discord.gg/NiDea1#7889)
+---
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dorukcrli/)](https://www.linkedin.com/in/dorukcrli/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/crlidoruk)](https://www.hackerrank.com/crlidoruk)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/20529650)](https://stackoverflow.com/users/20529650)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.gg/nidea1)](https://discord.gg/nidea1)
 
 <!-- Techs -->
-### Techs
+### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+---
+
+#### **Languages & Frameworks**
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+#### **Databases & Messaging**
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=MongoDB&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+
+#### **DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 <!-- GitHub Stats -->
-### GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidea1&hide_border=true&locale=en&theme=tokyonight)
+---
+<p align="center">
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nidea1&theme=tokyonight&hide_border=true" alt="streak-stats" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nidea1&show_icons=true&theme=tokyonight&hide_border=true" alt="github-stats" />
+</p>
 
-<!-- Languages -->
-### Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nidea1&locale=en&layout=compact&theme=tokyonight&hide=html&hide_border=true)](https://github.com/nidea1)
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidea1&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nidea1&theme=tokyonight" alt="repos-per-language" />
+</p>
