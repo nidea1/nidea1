@@ -73,11 +73,11 @@
 
 ---
 <p align="center">
-  <a href="https://git.io/streak-stats"><img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=nidea1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nidea1&show_icons=true&theme=tokyonight&hide_border=true" alt="github-stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nidea1&show_icons=true&theme=tokyonight&hide_border=true" alt="github-stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nidea1&theme=tokyonight" alt="profile-details" />
 </p>
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidea1&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nidea1&theme=tokyonight" alt="repos-per-language" />
+    <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidea1&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nidea1&theme=tokyonight" alt="repos-per-language" />
 </p>
