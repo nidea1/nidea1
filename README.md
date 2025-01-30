@@ -25,7 +25,7 @@
 - 📝 **Description**: A modern online auction application built with a microservices architecture.
 - 🛠️ **Technologies Used**: Go, gRPC, Docker, Kubernetes, PostgreSQL, Redis, gRPC-Gateway
 - 🚀 **Key Features**: Real-time bidding, microservices-based backend, secure authentication
-- 📖 **Project code & details**: [goGavel REPO](https://github.com/nidea1/goGavel)
+- 📖 **Project code & details**: [goGavel REPO](https://github.com/nidea1/go-gavel)
 
 #### eAuction _(Archived Project)_
 
